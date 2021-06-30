@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>khoa học &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tag/khoa-hoc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sang34098.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 26 Jun 2021 03:25:26 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Bài Toán Chứng Minh Tốc Độ Ánh Sáng Là Giới Hạn Của Mọi Vật Trong Vũ Trụ</title>
+		<link>https://sang34098.github.io/mywordpress/khttp-localhost7882-myproject-wordpress-baiviet/bai-toan-chung-minh-toc-do-anh-sang-la-gioi-han-cua-moi-vat-trong-vu-tru/</link>
+					<comments>https://sang34098.github.io/mywordpress/khttp-localhost7882-myproject-wordpress-baiviet/bai-toan-chung-minh-toc-do-anh-sang-la-gioi-han-cua-moi-vat-trong-vu-tru/#respond</comments>
+		
+		<dc:creator><![CDATA[minhsang]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 06:25:38 +0000</pubDate>
+				<category><![CDATA[khoahoc]]></category>
+		<category><![CDATA[khoa học]]></category>
+		<guid isPermaLink="false">https://sang34098.github.io/mywordpress/?p=147</guid>
+
+					<description><![CDATA[Rất nhiều bạn hỏi tôi tại sao tốc độ ánh sáng lại là cao nhất trong vũ trụ? Liệu ở thế giới vĩ mô có tốc độ nào vượt qua ánh sáng được không? Einstein nói là KHÔNG ! Và tôi sẽ chứng minh cho các bạn khẳng định của Einstein bằng một bài toán &#8230; <a href="https://sang34098.github.io/mywordpress/khttp-localhost7882-myproject-wordpress-baiviet/bai-toan-chung-minh-toc-do-anh-sang-la-gioi-han-cua-moi-vat-trong-vu-tru/" class="more-link">Đọc tiếp<span class="screen-reader-text"> "Bài Toán Chứng Minh Tốc Độ Ánh Sáng Là Giới Hạn Của Mọi Vật Trong Vũ Trụ"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Rất nhiều bạn hỏi tôi tại sao tốc độ ánh sáng lại là cao nhất trong vũ trụ? Liệu ở thế giới vĩ mô có tốc độ nào vượt qua ánh sáng được không?</p>
+
+
+
+<p><strong>Einstein nói là KHÔNG !</strong></p>
+
+
+
+<p>Và tôi sẽ chứng minh cho các bạn khẳng định của Einstein bằng một bài toán sau.</p>
+
+
+
+<p>Đầu tiên tôi bác bỏ mọi giả định cho rằng vật có khối lượng có thể đạt tốc độ ánh sáng, nó vi phạm các quy tắc vật lí, giống như việc bạn bắt tôi tính vận tốc di chuyển của một người đã chết.Điều đó là không thể xảy ra trong bất cứ điều kiện nào.</p>
+
+
+
+<p><strong>Vì vậy giả định trên KHÔNG được phép.Nên tôi mong sau bài viết này , các bạn có giả định thì chỉ nên đặt tốc độ tối đa của một vật có khối lượng bằng 99,999999999999999999&#8230;.% tốc độ ánh sáng mà thôi</strong></p>
+
+
+
+<p>Bài toán của tôi như sau : Ta có một chiếc tàu hỏa đang chạy với vận tốc 90% ánh sáng. Vì muốn cứu mẹ mình nên siêu anh hùng Flash muốn trở về quá khứ bằng cách chạy nhanh hơn cả ánh sáng.</p>
+
+
+
+<p>Anh ta định &#8220;mượn&#8221; tốc độ của tàu để gia tốc bằng cách đứng trước mũi tàu, đạp vào tàu rồi chạy cật lực về phía trước. Biết vận tốc tối đa Flash có thể đạt được là 80% ánh sáng. Vậy người quan sát bên ngoài thấy Flash chạy với vận tốc là bao nhiêu ? Có vượt quá tốc độ ánh sáng được hay không?</p>
+
+
+
+<p>( Tốc độ của Flash bằng 80% ánh sáng là tức là Flash chạy với tốc độ 0,8c = 0,8 x 300.000 = 240.000 km/s&nbsp;<strong>so với tàu hỏa</strong>&nbsp;)</p>
+
+
+
+<p><strong>Lớp 10 chúng ta đã được học tính tương đối của chuyển động, tức là muốn xét vận tốc của vật nào đó thì ta phải so sánh nó với một vật mốc.</strong></p>
+
+
+
+<p>Ta gọi :</p>
+
+
+
+<p><strong>v là vận tốc của Tàu hỏa</strong>&nbsp;bằng 90% vận tốc ánh sáng = 0,9c</p>
+
+
+
+<p><strong>z&#8217; là vận tốc của Flash so với tàu hỏa&nbsp;</strong>bằng 80% vận tốc ánh sáng = 0,8c</p>
+
+
+
+<p><strong>z là tổng vận tốc</strong>&nbsp;của Flash mà người bên ngoài quan sát được.</p>
+
+
+
+<p>( c là tốc độ ánh sáng )</p>
+
+
+
+<p><strong><em>1.Áp dụng công thức cộng vận tốc của Newton :</em></strong></p>
+
+
+
+<p>z = z&#8217; + v = 0,8c + 0,9c = 1,7c</p>
+
+
+
+<p>Tức là bằng 170% tốc độ ánh sáng, nhanh hơn 1,7 lần ánh sáng.</p>
+
+
+
+<p>Xong , bài toán kết thúc ! Vậy người quan sát sẽ thấy Flash chạy với vận tốc nhanh hơn ánh sáng.</p>
+
+
+
+<p><strong>Mà không phải, anh ta nhanh hơn ánh sáng thì làm sao mà nhìn thấy được nữa&#8230;Tức là Flash sẽ chạy xuyên không-thời gian và quay ngược về quá khứ.</strong></p>
+
+
+
+<p><strong>Đó là lí do vì sao anh có thể cứu mẹ của mình.</strong></p>
+
+
+
+<p>Einstein đã sai , tôi và bạn hãy mang bài toán này đi tranh giải Nobel Vật Lí nào.hahaha&#8230;<img alt="111" src="https://cdn.noron.vn/2020/02/08/83396f56e67856cd15811eee4d26bbf3.png"></p>
+
+
+
+<p><strong><em>2.Áp dụng công thức cộng vận tốc theo phép biến đổi Lorentz</em></strong></p>
+
+
+
+<p><em>Tôi đùa đấy</em>, với những vận tốc nhanh gần bằng ánh sáng, ta không thể áp dụng phép cộng vận tốc của Newton được.Mà phải áp dụng theo phép biến đổi lorentz.</p>
+
+
+
+<p>Trong khuôn khổ bài viết tôi không đủ khả năng chia sẻ học thuyết vật lí cao cấp này được.Bạn nào muốn nghiên cứu sâu hơn thì có thể tìm các tài liệu khác nhé.</p>
+
+
+
+<p>Áp dụng phép biến đổi lorentz ta sẽ ra được công thức tính tổng vận tốc</p>
+
+
+
+<p><strong>z = tử số / mẫu số</strong></p>
+
+
+
+<p><strong>Tử số bằng z&#8217; + v</strong></p>
+
+
+
+<p><strong>Mẫu số bằng 1 +( v.z&#8217;/ c.c )</strong></p>
+
+
+
+<p><strong>c là tốc độ ánh sáng nhé anh em</strong></p>
+
+
+
+<p>Giờ các bạn có thể thay z&#8217; = 0,8c và v = 0,9c để tính ra :&nbsp;</p>
+
+
+
+<p>z = 0,98c</p>
+
+
+
+<p>Suy ra tổng vận tốc của Flash trên sự quan sát của người bên ngoài chỉ đạt 98% tốc độ ánh sáng mà thôi.</p>
+
+
+
+<p><em>Nghĩa là chúng ta vẫn không thể đạt giải Nobel được vì Einstein vẫn đúng.</em><img alt="images" src="https://cdn.noron.vn/2020/02/08/557db9bc7d2746626fff916dc1d75cf1.jpg"></p>
+
+
+
+<p>Nếu bạn nào tò mò, có thể thử tính tổng vận tốc khi giả định Flash và tàu hỏa cùng đạt 99% tốc độ ánh sáng, xem ra kết quả bao nhiêu nhé.Hãy cùng comment kết quả bạn tính được để mọi người cùng thảo luận.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sang34098.github.io/mywordpress/khttp-localhost7882-myproject-wordpress-baiviet/bai-toan-chung-minh-toc-do-anh-sang-la-gioi-han-cua-moi-vat-trong-vu-tru/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

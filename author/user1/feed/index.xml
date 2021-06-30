@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>minhsang &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/author/user1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sang34098.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 26 Jun 2021 03:33:53 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Bài Toán Chứng Minh Tốc Độ Ánh Sáng Là Giới Hạn Của Mọi Vật Trong Vũ Trụ</title>
+		<link>https://sang34098.github.io/mywordpress/khttp-localhost7882-myproject-wordpress-baiviet/bai-toan-chung-minh-toc-do-anh-sang-la-gioi-han-cua-moi-vat-trong-vu-tru/</link>
+					<comments>https://sang34098.github.io/mywordpress/khttp-localhost7882-myproject-wordpress-baiviet/bai-toan-chung-minh-toc-do-anh-sang-la-gioi-han-cua-moi-vat-trong-vu-tru/#respond</comments>
+		
+		<dc:creator><![CDATA[minhsang]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 06:25:38 +0000</pubDate>
+				<category><![CDATA[khoahoc]]></category>
+		<category><![CDATA[khoa học]]></category>
+		<guid isPermaLink="false">https://sang34098.github.io/mywordpress/?p=147</guid>
+
+					<description><![CDATA[Rất nhiều bạn hỏi tôi tại sao tốc độ ánh sáng lại là cao nhất trong vũ trụ? Liệu ở thế giới vĩ mô có tốc độ nào vượt qua ánh sáng được không? Einstein nói là KHÔNG ! Và tôi sẽ chứng minh cho các bạn khẳng định của Einstein bằng một bài toán &#8230; <a href="https://sang34098.github.io/mywordpress/khttp-localhost7882-myproject-wordpress-baiviet/bai-toan-chung-minh-toc-do-anh-sang-la-gioi-han-cua-moi-vat-trong-vu-tru/" class="more-link">Đọc tiếp<span class="screen-reader-text"> "Bài Toán Chứng Minh Tốc Độ Ánh Sáng Là Giới Hạn Của Mọi Vật Trong Vũ Trụ"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Rất nhiều bạn hỏi tôi tại sao tốc độ ánh sáng lại là cao nhất trong vũ trụ? Liệu ở thế giới vĩ mô có tốc độ nào vượt qua ánh sáng được không?</p>
+
+
+
+<p><strong>Einstein nói là KHÔNG !</strong></p>
+
+
+
+<p>Và tôi sẽ chứng minh cho các bạn khẳng định của Einstein bằng một bài toán sau.</p>
+
+
+
+<p>Đầu tiên tôi bác bỏ mọi giả định cho rằng vật có khối lượng có thể đạt tốc độ ánh sáng, nó vi phạm các quy tắc vật lí, giống như việc bạn bắt tôi tính vận tốc di chuyển của một người đã chết.Điều đó là không thể xảy ra trong bất cứ điều kiện nào.</p>
+
+
+
+<p><strong>Vì vậy giả định trên KHÔNG được phép.Nên tôi mong sau bài viết này , các bạn có giả định thì chỉ nên đặt tốc độ tối đa của một vật có khối lượng bằng 99,999999999999999999&#8230;.% tốc độ ánh sáng mà thôi</strong></p>
+
+
+
+<p>Bài toán của tôi như sau : Ta có một chiếc tàu hỏa đang chạy với vận tốc 90% ánh sáng. Vì muốn cứu mẹ mình nên siêu anh hùng Flash muốn trở về quá khứ bằng cách chạy nhanh hơn cả ánh sáng.</p>
+
+
+
+<p>Anh ta định &#8220;mượn&#8221; tốc độ của tàu để gia tốc bằng cách đứng trước mũi tàu, đạp vào tàu rồi chạy cật lực về phía trước. Biết vận tốc tối đa Flash có thể đạt được là 80% ánh sáng. Vậy người quan sát bên ngoài thấy Flash chạy với vận tốc là bao nhiêu ? Có vượt quá tốc độ ánh sáng được hay không?</p>
+
+
+
+<p>( Tốc độ của Flash bằng 80% ánh sáng là tức là Flash chạy với tốc độ 0,8c = 0,8 x 300.000 = 240.000 km/s&nbsp;<strong>so với tàu hỏa</strong>&nbsp;)</p>
+
+
+
+<p><strong>Lớp 10 chúng ta đã được học tính tương đối của chuyển động, tức là muốn xét vận tốc của vật nào đó thì ta phải so sánh nó với một vật mốc.</strong></p>
+
+
+
+<p>Ta gọi :</p>
+
+
+
+<p><strong>v là vận tốc của Tàu hỏa</strong>&nbsp;bằng 90% vận tốc ánh sáng = 0,9c</p>
+
+
+
+<p><strong>z&#8217; là vận tốc của Flash so với tàu hỏa&nbsp;</strong>bằng 80% vận tốc ánh sáng = 0,8c</p>
+
+
+
+<p><strong>z là tổng vận tốc</strong>&nbsp;của Flash mà người bên ngoài quan sát được.</p>
+
+
+
+<p>( c là tốc độ ánh sáng )</p>
+
+
+
+<p><strong><em>1.Áp dụng công thức cộng vận tốc của Newton :</em></strong></p>
+
+
+
+<p>z = z&#8217; + v = 0,8c + 0,9c = 1,7c</p>
+
+
+
+<p>Tức là bằng 170% tốc độ ánh sáng, nhanh hơn 1,7 lần ánh sáng.</p>
+
+
+
+<p>Xong , bài toán kết thúc ! Vậy người quan sát sẽ thấy Flash chạy với vận tốc nhanh hơn ánh sáng.</p>
+
+
+
+<p><strong>Mà không phải, anh ta nhanh hơn ánh sáng thì làm sao mà nhìn thấy được nữa&#8230;Tức là Flash sẽ chạy xuyên không-thời gian và quay ngược về quá khứ.</strong></p>
+
+
+
+<p><strong>Đó là lí do vì sao anh có thể cứu mẹ của mình.</strong></p>
+
+
+
+<p>Einstein đã sai , tôi và bạn hãy mang bài toán này đi tranh giải Nobel Vật Lí nào.hahaha&#8230;<img alt="111" src="https://cdn.noron.vn/2020/02/08/83396f56e67856cd15811eee4d26bbf3.png"></p>
+
+
+
+<p><strong><em>2.Áp dụng công thức cộng vận tốc theo phép biến đổi Lorentz</em></strong></p>
+
+
+
+<p><em>Tôi đùa đấy</em>, với những vận tốc nhanh gần bằng ánh sáng, ta không thể áp dụng phép cộng vận tốc của Newton được.Mà phải áp dụng theo phép biến đổi lorentz.</p>
+
+
+
+<p>Trong khuôn khổ bài viết tôi không đủ khả năng chia sẻ học thuyết vật lí cao cấp này được.Bạn nào muốn nghiên cứu sâu hơn thì có thể tìm các tài liệu khác nhé.</p>
+
+
+
+<p>Áp dụng phép biến đổi lorentz ta sẽ ra được công thức tính tổng vận tốc</p>
+
+
+
+<p><strong>z = tử số / mẫu số</strong></p>
+
+
+
+<p><strong>Tử số bằng z&#8217; + v</strong></p>
+
+
+
+<p><strong>Mẫu số bằng 1 +( v.z&#8217;/ c.c )</strong></p>
+
+
+
+<p><strong>c là tốc độ ánh sáng nhé anh em</strong></p>
+
+
+
+<p>Giờ các bạn có thể thay z&#8217; = 0,8c và v = 0,9c để tính ra :&nbsp;</p>
+
+
+
+<p>z = 0,98c</p>
+
+
+
+<p>Suy ra tổng vận tốc của Flash trên sự quan sát của người bên ngoài chỉ đạt 98% tốc độ ánh sáng mà thôi.</p>
+
+
+
+<p><em>Nghĩa là chúng ta vẫn không thể đạt giải Nobel được vì Einstein vẫn đúng.</em><img alt="images" src="https://cdn.noron.vn/2020/02/08/557db9bc7d2746626fff916dc1d75cf1.jpg"></p>
+
+
+
+<p>Nếu bạn nào tò mò, có thể thử tính tổng vận tốc khi giả định Flash và tàu hỏa cùng đạt 99% tốc độ ánh sáng, xem ra kết quả bao nhiêu nhé.Hãy cùng comment kết quả bạn tính được để mọi người cùng thảo luận.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sang34098.github.io/mywordpress/khttp-localhost7882-myproject-wordpress-baiviet/bai-toan-chung-minh-toc-do-anh-sang-la-gioi-han-cua-moi-vat-trong-vu-tru/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ước mơ du hành không gian, khám phá toàn bộ vũ trụ không hề viễn tưởng.</title>
+		<link>https://sang34098.github.io/mywordpress/khttp-localhost7882-myproject-wordpress-baiviet/uoc-mo-du-hanh-khong-gian-kham-pha-toan-bo-vu-tru-khong-he-vien-tuong/</link>
+					<comments>https://sang34098.github.io/mywordpress/khttp-localhost7882-myproject-wordpress-baiviet/uoc-mo-du-hanh-khong-gian-kham-pha-toan-bo-vu-tru-khong-he-vien-tuong/#respond</comments>
+		
+		<dc:creator><![CDATA[minhsang]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 06:16:02 +0000</pubDate>
+				<category><![CDATA[khoahoc]]></category>
+		<category><![CDATA[Ước mơ du hành không gian]]></category>
+		<guid isPermaLink="false">https://sang34098.github.io/mywordpress/?p=145</guid>
+
+					<description><![CDATA[Hôm nọ tôi có &#8220;review&#8221; một kênh youtube khá nổi tiếng khi phát hiện kênh đó truyền bá sai kiến thức khoa học và nhận được một cơn mưa gạch đá, tôi thực sự không lấy làm khó hiểu vì tôi biết anh em chưa thực sự biết lý do tại sao, nghĩ tôi bắt &#8230; <a href="https://sang34098.github.io/mywordpress/khttp-localhost7882-myproject-wordpress-baiviet/uoc-mo-du-hanh-khong-gian-kham-pha-toan-bo-vu-tru-khong-he-vien-tuong/" class="more-link">Đọc tiếp<span class="screen-reader-text"> "Ước mơ du hành không gian, khám phá toàn bộ vũ trụ không hề viễn tưởng."</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Hôm nọ tôi có &#8220;review&#8221; một kênh youtube khá nổi tiếng khi phát hiện kênh đó truyền bá sai kiến thức khoa học và nhận được một cơn mưa gạch đá, tôi thực sự không lấy làm khó hiểu vì tôi biết anh em chưa thực sự biết lý do tại sao, nghĩ tôi bắt lỗi câu &#8220;Giả sử ta di chuyển bằng vận tốc ánh sáng thì ta có thể đến cận tinh trong 4 năm&#8221;</p>
+
+
+
+<p>Hôm nay tôi sẽ giải thích chi tiết và cụ thể hơn một chút. Dĩ nhiên tôi không quan trọng kênh đó có fix video hay không, tôi chỉ cần anh em biết &#8220;điều gì sẽ xảy ra nếu chúng ta di chuyển với tốc độ ánh sáng&#8221; mà thôi.<img alt="2227" src="https://cdn.noron.vn/2020/05/07/2b3ceced636985484dd8a8293480d47e.jpg"></p>
+
+
+
+<p><strong>1/ Tại sao phi thuyền lại không thể di chuyển bằng tốc độ ánh sáng.</strong></p>
+
+
+
+<p>Hệ quả đầu tiên ta cần chú ý trong thuyết tương đối hẹp của Einstein :</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Một vật chuyển động càng gần tốc độ ánh sáng thì động năng của nó càng tăng.</p></blockquote>
+
+
+
+<p><em>Vì vậy khi đạt vận tốc ánh sáng động năng cần để vật di chuyển sẽ tăng vô hạn, và dĩ nhiên năng lượng cần cũng phải vô hạn, tức là đốt hết toàn bộ năng lượng của vũ trụ chúng ta cũng không đủ.</em></p>
+
+
+
+<p><em>Tại sao tôi lại không nói rằng khối lượng của vật tăng khi di chuyển tiệm cận ánh sáng? Hãy đọc bài viết dưới đây để hiểu</em></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.noron.vn/2020/05/08/9be7d64aab778f33c7c87ef74d8750a1.png?w=120" alt=""/></figure>
+
+
+
+<p>Nếu di chuyển tiệm cận tốc độ ánh sáng, bạn có thể biến thành một lỗ đen?</p>
+
+
+
+<p>noron.vn<img alt="997335" src="https://cdn.noron.vn/2020/05/07/4191b5ace38b31d72977dac1314d0889.jpg"></p>
+
+
+
+<p><em>﻿Không biết Flash &#8220;ăn gian&#8221; năng lượng từ đâu nhỉ?</em></p>
+
+
+
+<p><strong>Tuy nhiên vẫn có 2 cách để thay đổi định luật này :</strong></p>
+
+
+
+<ul><li>Tìm lối sang vũ trụ khác, nơi có các định luật vật lý khác biệt.</li><li>Inbox cho người lập trình vũ trụ của chúng ta, yêu cầu sửa file &#8220;physics.dat&#8221; , tuy nhiên chương trình giả lập sẽ phải reset lại từ đầu nên khả năng cao là tôi với bạn sẽ bay màu và trở thành Dejavu trong kí ức của những nhân vật mới, trong vũ trụ mới.</li></ul>
+
+
+
+<p><strong>2/ Vậy di chuyển tiệm cận tốc độ ánh sáng thì sao?</strong></p>
+
+
+
+<p><strong>Vật lý nói OK, miễn không phải là 100% tốc độ ánh sáng (c).</strong><img alt="tumblr_mpenftB7F31s1rg3no1_1280" src="https://cdn.noron.vn/2020/05/07/91333fbe45fa63f81ec5a19bab453710.jpg"></p>
+
+
+
+<p>Nếu thế ta hãy giả sử phi thuyền đạt&nbsp;<strong>99,99% c</strong>&nbsp;, xem sao:</p>
+
+
+
+<p>Đầu tiên ta hãy hiểu bản chất, tại sao thời gian của người di chuyển lại co ngắn ? có phải họ &#8220;hack timeline&#8221; hay không?</p>
+
+
+
+<p>Thực ra khi di chuyển nhanh thì cái co ngắn đầu tiên là quãng đường.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Nghe khá kì lạ nhưng chính xác khi bạn di chuyển nhanh, bạn sẽ bóp méo không gian, khiến quãng đường di truyển trên cảm nhận của bạn bị rút ngắn lại. Dĩ nhiên người quan sát trên Trái Đất không thể nhận ra điều này.</p></blockquote>
+
+
+
+<p>Chính vì quãng đường co ngắn, nên thời gian (tỉ lệ thuận với quãng đường) cũng co theo.</p>
+
+
+
+<p>Lúc này người di chuyển đã &#8220;nhảy&#8221; sang một khung tham chiếu khác với thời gian T&#8217; , còn người ở trái đất vẫn chịu ảnh hưởng của thời gian T bình thường.</p>
+
+
+
+<p>và khi so sánh T với T&#8217; ta sẽ thấy sự khác biệt, mặc dù 2 khung tham chiếu này cùng tồn tại trong 1 vũ trụ.</p>
+
+
+
+<p><strong>Bài toán như sau</strong>&nbsp;: Tính thời gian của người trên phi thuyền phải trải qua khi di chuyển với vận tốc 99,99% tốc độ ánh sáng, đến hành tinh X cách trái đất 100 năm ánh sáng.</p>
+
+
+
+<p>Đầu tiên ta áp dụng công thức ta tính L&#8217; trước ( quãng đường co ngắn trên cảm nhận của người di chuyển ) :</p>
+
+
+
+<p><strong>L&#8217; = L / γ</strong></p>
+
+
+
+<p><strong>( γ là gamma , hệ số biến đổi Lorentz ) [1]</strong></p>
+
+
+
+<p>với γ = 1 / căn bậc hai của (1 &#8211; v² / c² )</p>
+
+
+
+<p>Thay số :</p>
+
+
+
+<p>v = 99,99% c = 0,9999c</p>
+
+
+
+<p>L = 100 năm ánh sáng</p>
+
+
+
+<p><strong>Ta tính ra được L&#8217; = 1,4 năm ánh sáng</strong></p>
+
+
+
+<blockquote class="wp-block-quote"><p>Tức là theo cảm nhận của người di chuyển, quãng đường 100 năm ánh sáng đã bị co ngắn lại chỉ còn 1,4 năm ánh sáng.</p></blockquote>
+
+
+
+<p>(hãy nhớ năm ánh sáng là đơn vị đo khoảng cách , 1 năm ánh sáng = 9,5 nghìn tỷ km)</p>
+
+
+
+<p><strong><em>Vậy muốn đi hết quãng đường 1,4 năm ánh sáng với vận tốc 99,99% ánh sáng thì mất bao lâu :</em></strong></p>
+
+
+
+<p>theo công thức xưa cũ cổ điển ta có :</p>
+
+
+
+<p>T&#8217; = s / v</p>
+
+
+
+<p><strong>Suy ra T&#8217; = 1,4 năm ( tính theo giờ trái đất )</strong></p>
+
+
+
+<p><strong>ĐÁP ÁP CUỐI CÙNG :</strong></p>
+
+
+
+<p><em>Người ở trên phi thuyền khi đi đến hành tinh X cách Trái Đất 100 năm ánh sáng, cảm nhận thời gian trôi đi chỉ 1,4 năm (già đi 1,4 tuổi) , nhưng đối với người ở Trái Đất thì đã 101 năm trôi qua mất rồi.</em><img alt="a2ddb5ee3764bd3d53facfcd1a895978" src="https://cdn.noron.vn/2020/05/07/35e753b5fa0b5deb5f81845e34dbf40c.jpg"></p>
+
+
+
+<p><strong>3/ Kết luận :</strong></p>
+
+
+
+<p>Bạn thấy đó, nếu truyền bá sai kiến thức khoa học, mặc dù không ảnh hưởng gì đến kinh tế thế giới nhưng nó lại vùi dập ước mơ của biết bao bạn nhỏ, giả sử các bạn ấy xem được video kia và nghĩ rằng, cho dù đạt vận tốc nhanh nhất trong vũ trụ, là tốc độ ánh sáng thì loài người cũng chẳng thể nào khám phá được hết vũ trụ, sẽ mãi chỉ là một con ếch trong chiếc giếng sâu thẳm mà thôi.<img alt="1_gn1b_I6_-m5qnQyyWU1ALA" src="https://cdn.noron.vn/2020/05/07/60d856fde01cc61d3102a03281ee232b.jpg"></p>
+
+
+
+<p>Bản thân tôi cũng từng nghĩ như thế và buồn bã trước khi biết thuyết tương đối, và từ khi Einstein thay đổi tư duy của tôi cũng như toàn nhân loại, ông đã mở ra một chân trời mới cho ước mơ của loài người, một khát khao chinh phục toàn bộ vũ trụ.</p>
+
+
+
+<p style="line-height:1.4"><em>&#8220;Nếu chúng ta sánh đôi được với ánh sáng, chúng ta có thể đến được mọi nơi trong vũ trụ chỉ trong một cái chớp mắt&#8221;</em><img alt="con-nguoi-dai-ngan-ha" src="https://cdn.noron.vn/2020/05/07/fbfd0a456a988d3dbf948ffa2ea29385.jpg"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sang34098.github.io/mywordpress/khttp-localhost7882-myproject-wordpress-baiviet/uoc-mo-du-hanh-khong-gian-kham-pha-toan-bo-vu-tru-khong-he-vien-tuong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
